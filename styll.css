@@ -1,0 +1,106 @@
+
+.fon {
+    width: 90%;
+    height: 900px;
+    background-color: white;
+}
+.fon_1 {
+    width: 50%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.red {
+    width: 100%;
+    height: 30%;
+    background-color: red;
+}
+.black {
+    width: 100%;
+    height: 30%;
+    background-color: black;
+}
+.blue {
+    width: 100%;
+    height: 30%;
+    background-color: blue;
+}
+.fon_2 {
+    width: 50%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+.rear {
+    width: 100%;
+  height: 30%; 
+  display: flex;
+  flex-direction: row; 
+}
+.rad_2 {
+    width: 35%;
+    height: 100%;
+    background-color: red;
+}
+.green {
+    width: 35%;
+    height: 100%;
+    background-color:green; 
+}
+.blue_2 {
+    width: 35%;
+    height: 100%;
+    background-color: blue;
+}
+.yellow {
+    width: 100%;
+    height: 30%;
+    background-color: yellow;
+}
+.rear_2 {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+}
+.grey {
+    height: 100%;
+    width: 50%;
+    background-color: green;
+}
+.black_2 {
+    height: 100%;
+    width: 50%;
+    background-color: black;
+}
+.fon_3 {
+    width: 60%;
+    height: 30%;
+    background-color: rgb(178, 221, 136);
+    display: flex;
+    flex-direction: row;
+}
+.rad_3 {
+    width: 30%;
+    height: 80%;
+    background-color: red;
+    margin: auto;
+}
+h2 {
+    color: #000;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.green_2 {
+     width: 30%;
+    height: 80%;
+    background-color: green;
+    margin: auto;
+}
+.blue_3 {
+    width: 30%;
+    height: 80%;
+    background-color: blue;
+    margin: auto;
+}
